@@ -1,4 +1,5 @@
-
+# EX 10 IMPLEMENTATION OF OPENING AND CLOSING
+## DATE:
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
 
